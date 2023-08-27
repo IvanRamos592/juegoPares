@@ -1,1 +1,1 @@
-# luegoPares
+# juegoPares
